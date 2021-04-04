@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/1-restaurante/static/js/main.c3987b77.chunk.js",
+    "main.js.map": "/1-restaurante/static/js/main.c3987b77.chunk.js.map",
+    "runtime-main.js": "/1-restaurante/static/js/runtime-main.79f69672.js",
+    "runtime-main.js.map": "/1-restaurante/static/js/runtime-main.79f69672.js.map",
+    "static/js/2.9e9b5a8e.chunk.js": "/1-restaurante/static/js/2.9e9b5a8e.chunk.js",
+    "static/js/2.9e9b5a8e.chunk.js.map": "/1-restaurante/static/js/2.9e9b5a8e.chunk.js.map",
+    "index.html": "/1-restaurante/index.html",
+    "static/js/2.9e9b5a8e.chunk.js.LICENSE.txt": "/1-restaurante/static/js/2.9e9b5a8e.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/1-restaurante/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/1-restaurante/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/1-restaurante/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/1-restaurante/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/1-restaurante/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/1-restaurante/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/1-restaurante/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/1-restaurante/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79f69672.js",
+    "static/js/2.9e9b5a8e.chunk.js",
+    "static/js/main.c3987b77.chunk.js"
+  ]
+}
